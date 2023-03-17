@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Pro Angular 9: Build Powerful and Dynamic Web Apps" ,
+        "bookImage": "https://m.media-amazon.com/images/I/51wYj4DoBgL._SX348_BO1,204,203,200_.jpg",
+        "bookDescription": "This book is for web developers who want to create rich client-side applications. Foundational knowledge of HTML and JavaScript is recommended",
+        "bookAuthors" : "Adam Freeman   "
+    },
 ]
 
 # Schema For the Book Request JSON
